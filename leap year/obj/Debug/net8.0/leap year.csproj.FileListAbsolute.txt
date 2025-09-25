@@ -1,0 +1,14 @@
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\bin\Debug\net8.0\leap year.exe
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\bin\Debug\net8.0\leap year.deps.json
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\bin\Debug\net8.0\leap year.runtimeconfig.json
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\bin\Debug\net8.0\leap year.dll
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\bin\Debug\net8.0\leap year.pdb
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\obj\Debug\net8.0\leap year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\obj\Debug\net8.0\leap year.AssemblyInfoInputs.cache
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\obj\Debug\net8.0\leap year.AssemblyInfo.cs
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\obj\Debug\net8.0\leap year.csproj.CoreCompileInputs.cache
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\obj\Debug\net8.0\leap year.dll
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\obj\Debug\net8.0\refint\leap year.dll
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\obj\Debug\net8.0\leap year.pdb
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\obj\Debug\net8.0\leap year.genruntimeconfig.cache
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\leap year\obj\Debug\net8.0\ref\leap year.dll
